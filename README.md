@@ -11,7 +11,9 @@ Problem statement: How may I simplify fitness and help users achieve their fitne
 
 Users and audience: My target audience is young adults, particularly high school and college students, who are trying to navigate adulthood as seamlessly as possible. They do not yet have a set daily routine becasue course schedules change and locations change during during holidays and breaks. They want a fitness journey that will accommodate their schedules and the changes made to it. 
 
-Process and what you did: So far, I have carried out user research on 12 college students. And after talking with them, I have learned their needs, pains and gains regarding fitness. Now, I am in the process of using the information gathered to create a fitness experience that is custom-made to each user.
+Process and what I have done so far: So far, I have carried out user research on 12 college students. And after talking with them, I have analysed the data and learned about their their needs, pains and gains as it relates to fitness through affinity diagrams and empathy maps. 
+
+Current Process: I am using the infomation I gathered to brainstorm and ideate through ideas that will create a fitness experience that is custom-made to each user and their specific fitness journey. 
 
 Scope and constraints: Coming soon
 
